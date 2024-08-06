@@ -32,6 +32,7 @@ const Carousel = () => {
           <img src={"../images/carousel_5.jpg"} alt="" />
         </SwiperSlide>
       </Swiper>
+      <div className="h-[50%] bg-gradient-to-b from-stone-900"/>
     </div>
   );
 };
