@@ -4,7 +4,6 @@ const HomePage = () => {
   return (
     <div className="bg-amazoneclone-background">
       <div className="min-width-[1000px] max-w-[1500px] m-auto">
-        Testing
         <Carousel />
         <div className="grid grid-cols-3 xl:grid-cols-4 -mt-80">
           <HomePageCard
