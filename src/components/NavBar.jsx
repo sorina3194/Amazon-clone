@@ -14,7 +14,7 @@ const NavBar = () => {
           />
           <div className="pr-4 pl-4">
             <div className="text-xs xl:text-sm">Deliver to</div>
-            <div className="text-sm xl:text-base font-bold">Germany</div>
+            <div className="text-sm xl:text-base font-bold">United Kingdom</div>
           </div>
         </div>
         {/*Middle */}
