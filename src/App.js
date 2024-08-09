@@ -6,6 +6,7 @@ import {
   SearchResults,
   ProductPage,
 } from "./components";
+
 const App = () => {
   return (
     <BrowserRouter>
